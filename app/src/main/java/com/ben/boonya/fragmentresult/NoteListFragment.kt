@@ -12,6 +12,7 @@ import com.ben.boonya.fragmentresult.databinding.FragmentNoteListBinding
 class NoteListFragment : Fragment() {
     //изменения5
     //изменения7
+    //изменения8 Branch3
     private lateinit var binding: FragmentNoteListBinding
 
     private val adapter: NoteRecyclerAdapter by lazy { NoteRecyclerAdapter() }
