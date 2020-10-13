@@ -11,7 +11,7 @@ import androidx.navigation.fragment.findNavController
 import com.ben.boonya.fragmentresult.databinding.FragmentAddNoteBinding
 
 class AddNoteFragment : Fragment() {
-
+//изменения
     private lateinit var binding: FragmentAddNoteBinding
 
     override fun onCreateView(
