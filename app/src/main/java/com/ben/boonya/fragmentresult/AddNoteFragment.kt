@@ -14,6 +14,7 @@ class AddNoteFragment : Fragment() {
 //изменения
 //изменения2
 //изменения3
+//изменения4
     private lateinit var binding: FragmentAddNoteBinding
 
     override fun onCreateView(
