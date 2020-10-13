@@ -13,6 +13,7 @@ class NoteListFragment : Fragment() {
     //изменения5
     //изменения7
     //изменения8 Branch3
+    //изменения9 Branch3
     private lateinit var binding: FragmentNoteListBinding
 
     private val adapter: NoteRecyclerAdapter by lazy { NoteRecyclerAdapter() }
