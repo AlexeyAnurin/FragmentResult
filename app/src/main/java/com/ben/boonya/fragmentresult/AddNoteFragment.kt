@@ -12,6 +12,7 @@ import com.ben.boonya.fragmentresult.databinding.FragmentAddNoteBinding
 
 class AddNoteFragment : Fragment() {
 //изменения
+//изменения2
     private lateinit var binding: FragmentAddNoteBinding
 
     override fun onCreateView(
